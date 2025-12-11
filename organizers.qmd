@@ -15,7 +15,7 @@ format: html
 
 /* Individual card */
 .speaker-card {
-  width: 260px;
+  width: calc(50% - 2rem); /* Two per row */
   text-align: center;
   font-family: sans-serif;
 }
@@ -49,14 +49,14 @@ format: html
 
 <!-- Organizer 1 -->
 <div class="speaker-card">
-  <img src="img/jo_hardin.png" class="speaker-photo">
+  <img src="img/jedi-cause.png" class="speaker-photo">
   <div class="speaker-name">Tyer George</div>
-  <div>Professor of Mathematics & Statistics, Pomona College</div>
-  <div class="social-icons">
-    <a href="https://github.com/stats-tgeorge">🐙</a>
-    <a href="https://www.linkedin.com/in/tyler-george-0025536a/">🔗</a>
-    <a href="https://stats-tgeorge.github.io/personal_website/about.html">🌐</a>
-  </div>
+  <div>Assistant Professor of Statistics at Cornell College</div>
+<div class="social-icons">
+<a href="https://github.com/stats-tgeorge">🐙</a>
+<a href="https://www.linkedin.com/in/tyler-george-0025536a/">🔗</a>
+<a href="https://stats-tgeorge.github.io/personal_website/about.html">🌐</a>
+</div>
 </div>
 
 
@@ -65,35 +65,35 @@ format: html
   <img src="img/jo_hardin.png" class="speaker-photo">
   <div class="speaker-name">Jo Hardin</div>
   <div>Professor of Mathematics & Statistics, Pomona College</div>
-  <div class="social-icons">
-    <a href="https://github.com/hardin47">🐙</a>
-    <a href="https://www.linkedin.com/in/jo-hardin-b91a4b55/">🔗</a>
-    <a href="https://hardin47.netlify.app/">🌐</a>
-  </div>
+<div class="social-icons">
+<a href="https://github.com/hardin47">🐙</a>
+<a href="https://www.linkedin.com/in/jo-hardin-b91a4b55/">🔗</a>
+<a href="https://hardin47.netlify.app/">🌐</a>
+</div>
 </div>
 
-<!-- Organizer 1 -->
+<!-- Organizer 3 -->
 <div class="speaker-card">
-  <img src="img/jo_hardin.png" class="speaker-photo">
-  <div class="speaker-name">Jo Hardin</div>
-  <div>Professor of Mathematics & Statistics, Pomona College</div>
-  <div class="social-icons">
-    <a href="https://github.com/hardin47">🐙</a>
-    <a href="https://linkedin.com/in/janedoe">🔗</a>
-    <a href="https://hardin47.netlify.app/">🌐</a>
-  </div>
+  <img src="img/jedi-cause.png" class="speaker-photo">
+  <div class="speaker-name">Jess Kunke</div>
+  <div>Assistant Professor of Statistics, Montana State University</div>
+<div class="social-icons">
+<a href="https://github.com/jpierkunke">🐙</a>
+<a href="https://www.linkedin.com/in/jessicakunke/">🔗</a>
+<a href="https://jpierkunke.github.io/">🌐</a>
+</div>
 </div>
 
 <!-- Organizer 4 -->
 <div class="speaker-card">
-  <img src="img/jo_hardin.png" class="speaker-photo">
-  <div class="speaker-name">Jo Hardin</div>
-  <div>Professor of Mathematics & Statistics, Pomona College</div>
-  <div class="social-icons">
-    <a href="https://github.com/hardin47">🐙</a>
-    <a href="https://linkedin.com/in/janedoe">🔗</a>
-    <a href="https://hardin47.netlify.app/">🌐</a>
-  </div>
+  <img src="img/jedi-cause.png" class="speaker-photo">
+  <div class="speaker-name">Jennifer Ward</div>
+  <div>Associate Instructor, Clark College</div>
+<div class="social-icons">
+<a href="">🐙</a>
+<a href="https://www.linkedin.com/in/jennifer-ward-b8600634/">🔗</a>
+<a href="">🌐</a>
+</div>
 </div>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "JEDI-CAUSE reading group"
+title: "Schedule"
 subtitle: "Spring 2026"
 ---
 
@@ -12,7 +12,7 @@ library(tidyverse)
 ```{r echo = FALSE}
 schedule <- tribble(
   ~`week`, ~topic, ~`due dates`, ~`reading`,
-  "2.3.25", '<a href="posts/2025-08-25-getting-started/"><i class="fas fa-desktop" target="_blank"></i> starting with R + RStudio + Git</a> <br> <a href="posts/2025-08-27-dataviz/"><i class="fas fa-desktop" target="_blank"></i> data viz</a>',
+  "2.03.25", '<a href="posts/2025-08-25-getting-started/"><i class="fas fa-desktop" target="_blank"></i> starting with R + RStudio + Git</a> <br> <a href="posts/2025-08-27-dataviz/"><i class="fas fa-desktop" target="_blank"></i> data viz</a>',
   ' ',
   '<a href = "https://happygitwithr.com/" target = "_blank"><i class="fas fa-book-open"></i> happygitwithR</a>',
 
@@ -20,7 +20,7 @@ schedule <- tribble(
   '<a href="https://github.com/orgs/ST47S-CompStats-Fall2025/repositories" target = "_blank"><i class="fas fa-code"></i> HW 1</a> - due 9.3',
   ' ',
   
- "3.3.25", '<a href="posts/2025-09-08-simulating/"><i class="fas fa-desktop" target="_blank"></i> simulating</a>',
+ "3.03.25", '<a href="posts/2025-09-08-simulating/"><i class="fas fa-desktop" target="_blank"></i> simulating</a>',
   '<a href="https://github.com/orgs/ST47S-CompStats-Fall2025/repositories" target = "_blank"><i class="fas fa-code"></i> HW 2</a> - due 9.10 <br> <i class="fa-regular fa-circle-question"></i> Quiz 1 (wrangling + ggplot) 9.10',
   ' ',
  
@@ -28,7 +28,7 @@ schedule <- tribble(
   '<a href="https://github.com/orgs/ST47S-CompStats-Fall2025/repositories" target = "_blank"><i class="fas fa-code"></i> HW 2</a> - due 9.10 <br> <i class="fa-regular fa-circle-question"></i> Quiz 1 (wrangling + ggplot) 9.10',
   ' ',
  
-  "4.7.25", '<a href="posts/2025-09-08-simulating/"><i class="fas fa-desktop" target="_blank"></i> simulating</a>',
+  "4.07.25", '<a href="posts/2025-09-08-simulating/"><i class="fas fa-desktop" target="_blank"></i> simulating</a>',
   '<a href="https://github.com/orgs/ST47S-CompStats-Fall2025/repositories" target = "_blank"><i class="fas fa-code"></i> HW 2</a> - due 9.10 <br> <i class="fa-regular fa-circle-question"></i> Quiz 1 (wrangling + ggplot) 9.10',
   ' ',
  

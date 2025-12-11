@@ -2,15 +2,15 @@ project:
   type: website
 
 website:
-  title: "jedi-read-s26"
+  title: "JEDI-CAUSE reading group"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: organizers.qmd
         text: Organizers
-      - href: https://causeweb.org/jedi/
-        text: JEDI-CAUSE
+      - href: "#" 
+        text: <a href = "https://causeweb.org/jedi/" target = "_blnak">JEDI-CAUSE</a>
 
 format:
   html:
