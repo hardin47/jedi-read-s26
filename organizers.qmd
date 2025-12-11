@@ -92,7 +92,7 @@ format: html
 <div class="social-icons">
 <a href="">🐙</a>
 <a href="https://www.linkedin.com/in/jennifer-ward-b8600634/">🔗</a>
-<a href="">🌐</a>
+<a href="https://www.clark.edu/directories/employee-search.php?q=Jennifer%20Ward">🌐</a>
 </div>
 </div>
 
