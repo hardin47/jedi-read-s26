@@ -3,6 +3,7 @@ project:
 
 website:
   title: "JEDI-CAUSE reading group"
+  favicon: img/favicon.png
   navbar:
     left:
       - href: index.qmd
