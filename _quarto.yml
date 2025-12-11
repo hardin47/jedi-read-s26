@@ -10,8 +10,8 @@ website:
         text: Home
       - href: organizers.qmd
         text: Organizers
-      - href: "#" 
-        text: <a href = "https://causeweb.org/jedi/" target = "_blnak">JEDI-CAUSE</a>
+      - text: <a href = "https://causeweb.org/jedi/" target = "_blnak">JEDI-CAUSE</a>
+        href: "#" 
 
 format:
   html:
