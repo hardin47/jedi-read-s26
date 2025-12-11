@@ -1,0 +1,101 @@
+---
+title: "Organizers"
+format: html
+---
+
+<style>
+/* Layout container */
+.speakers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+/* Individual card */
+.speaker-card {
+  width: 260px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/* Circular photo */
+.speaker-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #ddd;
+}
+
+/* Name */
+.speaker-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 0.8rem;
+}
+
+/* Social link icons */
+.social-icons a {
+  margin: 0 8px;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
+</style>
+
+
+<div class="speakers">
+
+<!-- Organizer 1 -->
+<div class="speaker-card">
+  <img src="img/jo_hardin.png" class="speaker-photo">
+  <div class="speaker-name">Tyer George</div>
+  <div>Professor of Mathematics & Statistics, Pomona College</div>
+  <div class="social-icons">
+    <a href="https://github.com/stats-tgeorge">🐙</a>
+    <a href="https://www.linkedin.com/in/tyler-george-0025536a/">🔗</a>
+    <a href="https://stats-tgeorge.github.io/personal_website/about.html">🌐</a>
+  </div>
+</div>
+
+
+<!-- Organizer 2 -->
+<div class="speaker-card">
+  <img src="img/jo_hardin.png" class="speaker-photo">
+  <div class="speaker-name">Jo Hardin</div>
+  <div>Professor of Mathematics & Statistics, Pomona College</div>
+  <div class="social-icons">
+    <a href="https://github.com/hardin47">🐙</a>
+    <a href="https://www.linkedin.com/in/jo-hardin-b91a4b55/">🔗</a>
+    <a href="https://hardin47.netlify.app/">🌐</a>
+  </div>
+</div>
+
+<!-- Organizer 1 -->
+<div class="speaker-card">
+  <img src="img/jo_hardin.png" class="speaker-photo">
+  <div class="speaker-name">Jo Hardin</div>
+  <div>Professor of Mathematics & Statistics, Pomona College</div>
+  <div class="social-icons">
+    <a href="https://github.com/hardin47">🐙</a>
+    <a href="https://linkedin.com/in/janedoe">🔗</a>
+    <a href="https://hardin47.netlify.app/">🌐</a>
+  </div>
+</div>
+
+<!-- Organizer 4 -->
+<div class="speaker-card">
+  <img src="img/jo_hardin.png" class="speaker-photo">
+  <div class="speaker-name">Jo Hardin</div>
+  <div>Professor of Mathematics & Statistics, Pomona College</div>
+  <div class="social-icons">
+    <a href="https://github.com/hardin47">🐙</a>
+    <a href="https://linkedin.com/in/janedoe">🔗</a>
+    <a href="https://hardin47.netlify.app/">🌐</a>
+  </div>
+</div>
+
+
+
+
