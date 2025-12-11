@@ -1,9 +1,21 @@
 ---
-title: "About"
+title: "History of the Project"
+format: html
 ---
 
-About this site
+## Motivation
 
-```{r}
-1 + 1
-```
+In May 2022, more than 25% of the breakout sessions at the <a href = "https://www.causeweb.org/cause/ecots/ecots22" target = "_blank">electronic Conference on Teaching Statistics (eCOTS)</a> were related to either justice, education, diversity, or inclusion (JEDI). The desire and interest for JEDI resources was apparent, so a group of us set out to create a central location where statistics educators could find JEDI materials for teaching and professional growth. Using the JEDI resources, we have the opportunity to evolve and adapt statistics education and practices to suit the needs of our ever-changing world and students.   
+
+## JEDI + CAUSE
+
+Arising from a strategic initiative of the <a href = "https://www.amstat.org/" taret = "_blank">American Statistical Association</a>, the <a href = "https://www.causeweb.org/cause/about" target = "_blank">Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)</a> is a national organization whose mission is to support and advance undergraduate statistics education in four target areas: resources, professional development, outreach, and research. Also an initiative of the American Statistical Association, the <a href = "https://datascijedi.org/" target = "_blank">Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group</a> is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. Pairing the two groups brings together teaching thoughtfulness under an inclusive lens.  
+
+## Website
+
+The JEDI-CAUSE website has now become a valuable set of resources related to justice, equity, diversity, and inclusion to be used inside and outside the classroom.  Acknowledging that the classroom is a space where humanity and education intersect, we think of our students first as people.  In that light, the team has compiled examples, activities, and references to help instructors in varied environments teach in a way that is equitable, inclusive, and responsive to diverse student needs. Additionally, some of the website entries are designed to support teachers engaged in JEDI work as they navigate their professional trajectory beyond the classroom. As educators, we understand that time is limited; we’ve collected resources that we ourselves have found useful and that we want to share with other instructors.
+
+## Reading group
+
+The organizers of the JEDI-CAUSE website (Tyler George, Jo Hardin, Jess Kunke, and Jennifer Ward) continue to look for ways to grow the JEDI-CAUSE website and to broaden the conversation about JEDI teaching. The reading group participants will complete readings and discuss topics related to Justice, Equity, Diversity, and Inclusion (JEDI). Each participant will create teaching materials for statistics and data science through six intensive two-hour collaborative meetings in the Spring of 2026. Members will post their created materials (e.g., activities, cleaned data, professional development materials, or more) on the existing <a href = "" target = "_blank>JEDI-CAUSE website</a> and on the <a href = "https://qubeshub.org/resources" target = "_blank">QUBES platform</a> to expand the availability and awareness of JEDI-related teaching materials for statistics and data science educators.
+

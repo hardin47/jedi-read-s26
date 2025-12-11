@@ -2,9 +2,37 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "History of the Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In May 2022, more than 25% of the breakout sessions at the electronic Conference on Teaching Statistics (eCOTS) were related to either justice, education, diversity, or inclusion (JEDI). The desire and interest for JEDI resources was apparent, so a group of us set out to create a central location where statistics educators could find JEDI materials for teaching and professional growth. Using the JEDI resources, we have the opportunity to evolve and adapt statistics education and practices to suit the needs of our ever-changing world and students."
+  },
+  {
+    "objectID": "about.html#motivation",
+    "href": "about.html#motivation",
+    "title": "History of the Project",
+    "section": "",
+    "text": "In May 2022, more than 25% of the breakout sessions at the electronic Conference on Teaching Statistics (eCOTS) were related to either justice, education, diversity, or inclusion (JEDI). The desire and interest for JEDI resources was apparent, so a group of us set out to create a central location where statistics educators could find JEDI materials for teaching and professional growth. Using the JEDI resources, we have the opportunity to evolve and adapt statistics education and practices to suit the needs of our ever-changing world and students."
+  },
+  {
+    "objectID": "about.html#jedi-cause",
+    "href": "about.html#jedi-cause",
+    "title": "History of the Project",
+    "section": "JEDI + CAUSE",
+    "text": "JEDI + CAUSE\nArising from a strategic initiative of the American Statistical Association, the Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) is a national organization whose mission is to support and advance undergraduate statistics education in four target areas: resources, professional development, outreach, and research. Also an initiative of the American Statistical Association, the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. Pairing the two groups brings together teaching thoughtfulness under an inclusive lens."
+  },
+  {
+    "objectID": "about.html#website",
+    "href": "about.html#website",
+    "title": "History of the Project",
+    "section": "Website",
+    "text": "Website\nThe JEDI-CAUSE website has now become a valuable set of resources related to justice, equity, diversity, and inclusion to be used inside and outside the classroom. Acknowledging that the classroom is a space where humanity and education intersect, we think of our students first as people. In that light, the team has compiled examples, activities, and references to help instructors in varied environments teach in a way that is equitable, inclusive, and responsive to diverse student needs. Additionally, some of the website entries are designed to support teachers engaged in JEDI work as they navigate their professional trajectory beyond the classroom. As educators, we understand that time is limited; we’ve collected resources that we ourselves have found useful and that we want to share with other instructors."
+  },
+  {
+    "objectID": "about.html#reading-group",
+    "href": "about.html#reading-group",
+    "title": "History of the Project",
+    "section": "Reading group",
+    "text": "Reading group\nThe organizers of the JEDI-CAUSE website (Tyler George, Jo Hardin, Jess Kunke, and Jennifer Ward) continue to look for ways to grow the JEDI-CAUSE website and to broaden the conversation about JEDI teaching. The reading group participants will complete readings and discuss topics related to Justice, Equity, Diversity, and Inclusion (JEDI). Each participant will create teaching materials for statistics and data science through six intensive two-hour collaborative meetings in the Spring of 2026. Members will post their created materials (e.g., activities, cleaned data, professional development materials, or more) on the existing &lt;a href = “” target = “_blank&gt;JEDI-CAUSE website and on the QUBES platform to expand the availability and awareness of JEDI-related teaching materials for statistics and data science educators."
   },
   {
     "objectID": "organizers.html",
@@ -18,6 +46,6 @@
     "href": "index.html",
     "title": "Schedule",
     "section": "",
-    "text": "week\ntopic\ndue dates\nreading\n\n\n\n\n2.03.25\n starting with R + RStudio + Git   data viz\n\n happygitwithR\n\n\n2.24.25\n wrangling\n HW 1 - due 9.3\n\n\n\n3.03.25\n simulating\n HW 2 - due 9.10   Quiz 1 (wrangling + ggplot) 9.10\n\n\n\n3.24.25\n simulating\n HW 2 - due 9.10   Quiz 1 (wrangling + ggplot) 9.10\n\n\n\n4.07.25\n simulating\n HW 2 - due 9.10   Quiz 1 (wrangling + ggplot) 9.10\n\n\n\n4.21.25\n simulating\n HW 2 - due 9.10   Quiz 1 (wrangling + ggplot) 9.10"
+    "text": "week\ntopic\nreadings\nassignments\n\n\n\n\n2.03.25\nWhat does JEDI look like? Conceptual Foundations\n⦾ Diversity, Equity, and Inclusion in Introductory Statistics Courses: Results from a National Survey  ⦾ Data Feminism – Introduction & Chapter 1  ⦾ Decolonizing Methodologies: Research and Indigenous Peoples – Introduction  ⦾ Indigenous data sovereignty  ⦾ Adapting Western Research Methods to Indigenous Ways of Knowing\nidentify topic, type of educational material to create, and data source\n\n\n2.24.25\nWhat is JEDI, and how do we integrate it into our teaching materials?\n⦾ Bringing Interdisciplinary Data Science Education Challenges into the Classroom  ⦾ Causal Inference Is Not Just a Statistics Problem\n\n\n\n3.03.25\nWhy? - Present and Current Examples\n⦾ Unmasking A.I. Injustice, with Dr. Joy Buolamwini  ⦾ Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy  ⦾ Lived Experiences and Other Ways of Knowing in STEMM  ⦾ Advancing Antiracism, Diversity, Equity, & Inclusion in STEMM Organizations\n\n\n\n3.24.25\nWhat if it goes wrong?\nRacial microaggressions and difficult dialogues on race in the classroom (Sue et al., 2009) Teachers’ concerns about inclusive education and the links with teachers’ attitudes (Jury et al., 2023) Diversity, Equity, Inclusivity (DEI): Perspectives and Activities from Statistics Programs in US Higher Education (Jimmy D., 2025)\n\n\n\n4.07.25\n\n\nparticipants share their current resource, peer reviews\n\n\n4.21.25\n\n\npresentations of resources"
   }
 ]

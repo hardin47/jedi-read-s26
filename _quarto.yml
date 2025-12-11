@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: organizers.qmd
         text: Organizers
       - text: <a href = "https://causeweb.org/jedi/" target = "_blnak">JEDI-CAUSE</a>
