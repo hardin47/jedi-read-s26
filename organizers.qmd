@@ -74,7 +74,7 @@ format: html
 
 <!-- Organizer 3 -->
 <div class="speaker-card">
-  <img src="img/jedi-cause.png" class="speaker-photo">
+  <img src="img/jesspkunke.jpeg" class="speaker-photo">
   <div class="speaker-name">Jess Kunke</div>
   <div>Assistant Professor of Statistics, Montana State University</div>
 <div class="social-icons">
