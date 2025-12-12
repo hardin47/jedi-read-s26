@@ -51,7 +51,7 @@ format: html
 <div class="speaker-card">
   <img src="img/jedi-cause.png" class="speaker-photo">
   <div class="speaker-name">Tyer George</div>
-  <div>Assistant Professor of Statistics at Cornell College</div>
+  <div>Assistant Professor of Statistics, Cornell College</div>
 <div class="social-icons">
 <a href="https://github.com/stats-tgeorge">🐙</a>
 <a href="https://www.linkedin.com/in/tyler-george-0025536a/">🔗</a>
