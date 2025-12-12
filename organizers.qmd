@@ -49,7 +49,7 @@ format: html
 
 <!-- Organizer 1 -->
 <div class="speaker-card">
-  <img src="img/jedi-cause.png" class="speaker-photo">
+  <img src="img/tylergeorge.png" class="speaker-photo">
   <div class="speaker-name">Tyer George</div>
   <div>Assistant Professor of Statistics, Cornell College</div>
 <div class="social-icons">
