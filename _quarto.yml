@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: papers.qmd
+        text: Extra Papers
       - href: about.qmd
         text: About
       - href: organizers.qmd

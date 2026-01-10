@@ -5,7 +5,6 @@ format:
   html:
     include-in-header: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 ---
 
 ```{r}
@@ -22,16 +21,14 @@ schedule <- tribble(
   'identify topic, type of educational material to create, and data source',
 
   
- "2.24.25", 'Why? - Present and Current Examples', '⦾ <a href="https://www.superdatascience.com/podcast/sds-727-unmasking-a-i-injustice-with-dr-joy-buolamwini">Unmasking A.I. Injustice, with Dr. Joy Buolamwini</a> <br> ⦾ <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2485239">Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy</a> <br> ⦾ <a href="https://www.nationalacademies.org/read/26803/chapter/8">Lived Experiences and Other Ways of Knowing in STEMM</a> <br> ⦾ <a href="https://www.youtube.com/watch?v=W4ZOFinXrJ0">Advancing Antiracism, Diversity, Equity, & Inclusion in STEMM Organizations</a>',
+ "2.24.25", 'Why? - Present and Current Examples', '⦾ <a href="https://www.superdatascience.com/podcast/sds-727-unmasking-a-i-injustice-with-dr-joy-buolamwini">Podcast SDS 727: Unmasking A.I. Injustice, with Dr. Joy Buolamwini</a> <br> ⦾ <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2485239">Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy</a>  <br> ⦾ <a href = "https://www.youtube.com/watch?v=W4ZOFinXrJ0" target = "_blank">Webinar: Advancing Antiracism, Diversity, Equity, & Inclusion in STEMM Organizations</a>',
   ' ',
  
-  "3.03.25", 'What is JEDI, and how do we integrate it into our teaching materials?', '⦾ <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2507366#abstract">Bringing Interdisciplinary Data Science Education Challenges into the Classroom</a> <br> ⦾ <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2276446#abstract">Causal Inference Is Not Just a Statistics Problem</a>',
+  "3.03.25", 'What is JEDI, and how do we integrate it into our teaching materials?', '⦾ J(edi) <a href = "" target = "_blank">Understanding Education for Social Justice</a>. <br> ⦾  (j)E(di) <a href = "https://docs.google.com/document/d/1yZ6R70z71uzaETR8fKqEG91jeywjQIvqVVoPz-adeJI/edit?tab=t.0" target = "_blank">Equity-focused Teaching Framework: Quick Reference Guide</a> (and more <a href = "https://crlt.umich.edu/equity-focused-teaching/principles-strategies-resources" target = "_blank">here</a>) <br> ⦾ (je)D(i) <a href = "http://www.meachamparknia.org/uploads/2/2/7/9/22798842/racial_microaggressions_and_difficult_di.pdf" target = "_blank">Racial microaggressions and difficult dialogues on race in the classroom</a>   <br> ⦾ (jed)I <a href = "https://cet.usc.edu/resource_topic/inclusive-teaching/" target = "_blank">Resource: Inclusive Teaching</a>',
   ' ',
  
-  "3.24.25", 'What if it goes wrong?', 'Racial microaggressions and difficult dialogues on race in the classroom (Sue et al., 2009)
-Teachers’ concerns about inclusive education and the links with teachers’ attitudes (Jury et al., 2023)
-Diversity, Equity, Inclusivity (DEI): Perspectives and Activities from Statistics Programs in US Higher Education (Jimmy D., 2025)
-', ' ',
+  "3.24.25", 'What if it goes wrong?', '⦾ <a href = "https://doi.org/10.1080/03634523.2025.2536010" target = "_blank">Creating inclusive classrooms in a time of anti-DEI initiatives</a> <br>⦾ <a href = "https://doi.org/10.3389/feduc.2022.1065919" target = "_blank">
+Teachers’ concerns about inclusive education and the links with teachers’ attitudes</a>', ' ',
  
   "4.07.25",  ' ', ' ', 'participants share their current resource, peer reviews',
  
@@ -54,6 +51,27 @@ schedule |>
                  everything() ~ pct(30))
 ```
 
+## Tips
+
+Meeting topics and general structure: Each meeting will include some time to work individually and/or together on new JEDI teaching materials. The first four meetings will also include discussions of readings.
+
+* Meeting 1: Introductions, reading discussion (What does JEDI look like? Conceptual foundations), work time (start developing new JEDI teaching materials)
+* Meeting 2: Reading discussion (Why JEDI? Present and Current Examples), sharing ideas in groups, work time
+* Meeting 3: Reading discussion (How do we integrate JEDI into our teaching?), work time
+* Meeting 4: Reading discussion (What if JEDI goes wrong?), work time
+* Meeting 5: Peer review time, work time, group discussion
+* Meeting 6: Presentations of completed work, submit materials to JEDI-CAUSE database
+
+#### Preparation for the first meeting: 
+
+Please read at least two of the three readings listed above.  Below, we share some tips and questions to guide your reading.
+
+**Tips**: There is no expectation that you read the texts linearly from start to finish.  You are welcome to read them however you like and however time permits, of course, but in the interest of balancing your other priorities with the readings, we suggest that our priority should be engaging meaningfully with the heart of the texts rather than necessarily reading them start to finish.  In this spirit, we recommend that you start by reading the headings, abstract (if there is one) and conclusion to get a sense for the overall scope and focus of the piece and anticipate what the reading might cover.  Identify a few questions you hope to answer by reading the text, which may include questions below and your own.  Then read the topic sentences of the paragraphs to get a sense for the structure and content of the text, and read the paragraphs that seem most relevant or of most interest to you.  As time permits, once you feel you can summarize the key points of the reading and engage with the questions you posed, read as much of the remaining texts as you like.
+
+#### Guided reading questions:
+1. How does each of the readings frame justice, equity, diversity, and inclusion (JEDI)?  What aspects of JEDI do the readings discuss?
+2. How does each of the readings relate to implementing JEDI in the classroom?  What aspects of the classroom (content, dynamics, format, policies, or other aspects) might be impacted by the ideas in the reading?  In what types of courses could you most envision implementing the principles or ideas you gathered from these readings?  Are there ways you can see applying these readings to your classroom, and how/why/why not?
+3. What questions do these readings raise in your mind?
 
 
 
