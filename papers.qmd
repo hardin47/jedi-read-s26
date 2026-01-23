@@ -8,7 +8,7 @@ format: html
 
 ## Extra papers to read
 
-As with all reading groups, we identified many more excellent papers than we had time to read together.
+As with all reading groups, we identified many more excellent papers than we have time to read together.
 We've included a list of recommended reading for you to engage with in your spare time.
 
 
@@ -19,11 +19,11 @@ We've included a list of recommended reading for you to engage with in your spar
 Zofia Bednarowska-Michaiel and Emma Uprichard.
 * <a href = "https://doi.org/10.1080/26939169.2025.2526628" target = "_blank">Diversity, Equity, and Inclusion in Introductory Statistics Courses: Results from a National Survey</a>, by Heather Barker, Kirsten Doehler, and Julia Walter.
 * Advancing Antiracism, Diversity, Equity, and Inclusion in STEMM Organizations: Beyond Broadening Participation <a href="https://www.nationalacademies.org/read/26803/chapter/8">Lived Experiences and Other Ways of Knowing in STEMM</a>, National Academies of Science, Engineering and Medicine.
-* <a href="https://www.youtube.com/watch?v=W4ZOFinXrJ0">Advancing Antiracism, Diversity, Equity, & Inclusion in STEMM Organizations</a>
+
 
 ## Papers which might spark an idea for a JEDI-CAUSE resource
 
-In addition, we found that the following papers sparked ideas for potential lessons for the <a href = "https://causeweb.org/jedi/" target = "_blank">JEDI-CAUSE</a> website.
+In addition, we found that the following papers might spark ideas for potential lessons you could create for the <a href = "https://causeweb.org/jedi/" target = "_blank">JEDI-CAUSE</a> website.
 
 * <a href = "https://doi.org/10.1080/26939169.2023.2276446" target = "_blank">Causal Inference is Not Just a Statistics Problem</a> by Lucy D'Agostino McGowan, Travis Gerke, and Malcolm Barrett.
 Based on their `quartet` R package, you might derive a JEDI-focused in-class activity to engage with causal models.

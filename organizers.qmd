@@ -86,7 +86,7 @@ format: html
 
 <!-- Organizer 4 -->
 <div class="speaker-card">
-  <img src="img/jedi-cause.png" class="speaker-photo">
+  <img src="img/jen_ward.jpg" class="speaker-photo">
   <div class="speaker-name">Jennifer Ward</div>
   <div>Associate Instructor, Clark College</div>
 <div class="social-icons">
